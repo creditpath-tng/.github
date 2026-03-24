@@ -2,7 +2,7 @@
 
 10 million Malaysians transact daily on TNG eWallet but 
 remain invisible to the formal credit system. GOpinjam's 
-RM800/month income floor excludes students, fresh graduates, 
+RM1,400/month income floor excludes students, fresh graduates, 
 and gig workers entirely.
 
 CreditPath bridges this gap using 12 behavioural signals 
